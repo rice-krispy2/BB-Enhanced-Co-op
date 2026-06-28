@@ -1,6 +1,7 @@
 # Bloodborne Enhanced Co-op
 
 This mod currently does the following:
+
 -Removes Multiplayer Fog Gates
 -Sets the Beckoning Bell item's insight requirement to 0
 -Grants the player all items necessary to begin Co-op
